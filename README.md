@@ -14,13 +14,17 @@ As I look to the future, my primary goal is to deepen my understanding and exper
 
 
 
-## <div style="font-size:24px; text-align:center;">Learn: ------</div>
+<div align="center">
+  <h2>Learn:</h2>
+</div>
 
 - Java: [Java Programming MOOC](https://java-programming.mooc.fi/) -> Certification
 - Spring Framework: [Spring Start Here](https://www.manning.com/books/spring-start-here) | [Spring Boot Documentation](https://docs.spring.io/spring-boot/docs/current/reference/htmlsingle/#documentation)
 - SQL: [SQLBolt](https://sqlbolt.com/)
 
-## <div style="font-size:24px; text-align:center;">Useful Resources: ------</div>
+<div align="center">
+  <h2>Useful Resources:</h2>
+</div>
 
 - Computer Science: [Open Source Society University](https://github.com/ossu/computer-science#open-source-society-university)
 - Java: [Enthuware Mock Exams for OCP Java 17](https://enthuware.com/java-certification-mock-exams/oracle-certified-professional/ocp-java-17-exam-1z0-829) | OCP Complete Study Guide by Scott Selikoff Jeanne Boyarsky | [BroCodez YouTube Channel](https://www.youtube.com/@BroCodez)
@@ -28,9 +32,12 @@ As I look to the future, my primary goal is to deepen my understanding and exper
 - SQL: [Joins Practice](https://joins.spathon.com/)
 - Git: [GitHub Certified Practice Tests](https://ghcertified.com/practice_tests/)
 
-## <div style="font-size:24px; text-align:center;">Certifications: ------</div>
+<div align="center">
+  <h2>Certifications:</h2>
+</div>
 
 - Java: [Java Programming MOOC](https://java-programming.mooc.fi/) | [Oracle Certified Professional Java SE 17 Developer](https://education.oracle.com/oracle-certified-professional-java-se-17-developer/trackp_OCPJSE17)
 - Spring: [VMware Spring Certified Professional](https://www.vmware.com/learning/certification/spring-certified-pro.html)
 - Scrum: [Scrum.org](https://www.scrum.org/)
 - Git: [Microsoft Learn Git Certification](https://learn.microsoft.com/en-us/collections/o1njfe825p602p)
+
