@@ -14,21 +14,21 @@ As I look to the future, my primary goal is to deepen my understanding and exper
 
 
 
-## <div style="text-align:center; font-size:24px;">Learn:</div>
+## <div style="font-size:24px; text-align:center;">Learn: ------</div>
 
-- Java: [Java Programming MOOC](https://java-programming.mooc.fi/)
+- Java: [Java Programming MOOC](https://java-programming.mooc.fi/) -> Certification
 - Spring Framework: [Spring Start Here](https://www.manning.com/books/spring-start-here) | [Spring Boot Documentation](https://docs.spring.io/spring-boot/docs/current/reference/htmlsingle/#documentation)
 - SQL: [SQLBolt](https://sqlbolt.com/)
 
-## <div style="text-align:center; font-size:24px;">Useful Resources:</div>
+## <div style="font-size:24px; text-align:center;">Useful Resources: ------</div>
 
 - Computer Science: [Open Source Society University](https://github.com/ossu/computer-science#open-source-society-university)
-- Java: [Enthuware Mock Exams for OCP Java 17](https://enthuware.com/java-certification-mock-exams/oracle-certified-professional/ocp-java-17-exam-1z0-829) | OCP Complete Study Guide by Scott Selikoff Jeanne Boyarsky(Book) | [BroCodez YouTube Channel](https://www.youtube.com/@BroCodez)
+- Java: [Enthuware Mock Exams for OCP Java 17](https://enthuware.com/java-certification-mock-exams/oracle-certified-professional/ocp-java-17-exam-1z0-829) | OCP Complete Study Guide by Scott Selikoff Jeanne Boyarsky | [BroCodez YouTube Channel](https://www.youtube.com/@BroCodez)
 - Spring Framework: [Laurentiu Pilca's YouTube Channel](https://www.youtube.com/c/laurentiuspilca) | [Spring Boot Documentation](https://spring.io/projects/spring-boot) | [Build it with Spring Boot GitHub Repository](https://github.com/the-code-journal/build-it-with-spring-boot/tree/main/01-mvc-jpa-thymeleaf)
 - SQL: [Joins Practice](https://joins.spathon.com/)
 - Git: [GitHub Certified Practice Tests](https://ghcertified.com/practice_tests/)
 
-## <div style="text-align:center; font-size:24px;">Certifications:</div>
+## <div style="font-size:24px; text-align:center;">Certifications: ------</div>
 
 - Java: [Java Programming MOOC](https://java-programming.mooc.fi/) | [Oracle Certified Professional Java SE 17 Developer](https://education.oracle.com/oracle-certified-professional-java-se-17-developer/trackp_OCPJSE17)
 - Spring: [VMware Spring Certified Professional](https://www.vmware.com/learning/certification/spring-certified-pro.html)
