@@ -18,7 +18,7 @@ As I look to the future, my primary goal is to deepen my understanding and exper
   <h2>Learn:</h2>
 </div>
 
-- Java: [Java Programming MOOC](https://java-programming.mooc.fi/) -> Certification
+- Java: [Java Programming MOOC](https://java-programming.mooc.fi/)
 - Spring Framework: [Spring Start Here](https://www.manning.com/books/spring-start-here) | [Spring Boot Documentation](https://docs.spring.io/spring-boot/docs/current/reference/htmlsingle/#documentation)
 - SQL: [SQLBolt](https://sqlbolt.com/)
 
