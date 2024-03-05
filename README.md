@@ -30,7 +30,7 @@ As I look to the future, my primary goal is to deepen my understanding and exper
 - Java: [Enthuware Mock Exams for OCP Java 17](https://enthuware.com/java-certification-mock-exams/oracle-certified-professional/ocp-java-17-exam-1z0-829) | OCP Complete Study Guide by Scott Selikoff Jeanne Boyarsky | [BroCodez YouTube Channel](https://www.youtube.com/@BroCodez)
 - Spring Framework: [Laurentiu Pilca's YouTube Channel](https://www.youtube.com/c/laurentiuspilca) | [Spring Boot Documentation](https://spring.io/projects/spring-boot) | [Build it with Spring Boot GitHub Repository](https://github.com/the-code-journal/build-it-with-spring-boot/tree/main/01-mvc-jpa-thymeleaf)
 - SQL: [Joins Practice](https://joins.spathon.com/)
-- Git: [GitHub Certified Practice Tests](https://ghcertified.com/practice_tests/)
+- Git: [Microsoft Learn Git Certification](https://learn.microsoft.com/en-us/collections/o1njfe825p602p)
 
 <div align="center">
   <h2>Certifications:</h2>
@@ -39,5 +39,4 @@ As I look to the future, my primary goal is to deepen my understanding and exper
 - Java: [Java Programming MOOC](https://java-programming.mooc.fi/) | [Oracle Certified Professional Java SE 17 Developer](https://education.oracle.com/oracle-certified-professional-java-se-17-developer/trackp_OCPJSE17)
 - Spring: [VMware Spring Certified Professional](https://www.vmware.com/learning/certification/spring-certified-pro.html)
 - Scrum: [Scrum.org](https://www.scrum.org/)
-- Git: [Microsoft Learn Git Certification](https://learn.microsoft.com/en-us/collections/o1njfe825p602p)
-
+- Git: [GitHub Certified Practice Tests](https://ghcertified.com/practice_tests/)
