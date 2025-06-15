@@ -1,37 +1,81 @@
-My professional journey started in the vibrant world of culinary arts, where I worked as a Chef in various hotels and restaurants.
-
-In a significant career shift fom February 2023, I started exploring the world of programming. Starting with the Helsinki Java MOOC, I not only completed the course but also earned a certification, signifying my commitment to this new field. My journey in tech didn't stop there; I've since learned tools and frameworks like GitHub, Spring/Spring Boot, and SQL, demonstrating my adaptability and eagerness to learn.
-
-Currently, I am channeling my culinary background into the development of a food delivery application.
-
-Below are some recources I used on my journey.
-
-
-
 <div align="center">
-  <h2>Learn:</h2>
+  <h1>Hello, world! 👋</h1>
+  <p>
+    A passionate and self-motivated <b>Java Developer</b> focused on building robust, user-centric backend systems and full-stack applications. I enjoy tackling complex problems and am constantly learning new technologies to write clean, efficient, and scalable code.
+  </p>
 </div>
 
-- Java: [Java Programming MOOC](https://java-programming.mooc.fi/) | [You Learn Code](https://youlearncode.com/)
-- Spring Framework: [Spring Start Here](https://www.manning.com/books/spring-start-here) | [Spring Boot Documentation](https://docs.spring.io/spring-boot/docs/current/reference/htmlsingle/#documentation)
-- SQL: [SQLBolt](https://sqlbolt.com/)
-- Git: [Microsoft Learn Git Certification](https://learn.microsoft.com/en-us/collections/o1njfe825p602p) 
+---
+
+### 🚀 My Projects
+
+<table>
+  <tr>
+    <td width="50%">
+      <h3 align="center">E-Resume: AI-Powered Resume Sorter</h3>
+      <p align="center">
+        <a href="https://www.linkedin.com/posts/emmanouilk_java-springboot-vaadin-activity-7295802643216519169-f-Fk"><img src="PASTE-YOUR-GIF-URL-HERE.gif" alt="E-Resume Demo"></a>
+      </p>
+      <p>A tool for recruiters to parse and score resumes based on configurable criteria, using OpenAI for intelligent data mapping.</p>
+      <p><b>Tech:</b></p>
+      <p>
+        <img src="https://img.shields.io/badge/Java-21-orange" alt="Java">
+        <img src="https://img.shields.io/badge/Spring_Boot-3.3-green" alt="Spring Boot">
+        <img src="https://img.shields.io/badge/Vaadin-24-blue" alt="Vaadin">
+        <img src="https://img.shields.io/badge/PostgreSQL-DB-blue" alt="PostgreSQL">
+        <img src="https://img.shields.io/badge/Docker-Container-blue" alt="Docker">
+        <img src="https://img.shields.io/badge/OpenAI-Spring_AI-black" alt="OpenAI">
+      </p>
+      <div align="center">
+        <b><a href="https://www.linkedin.com/posts/emmanouilk_java-springboot-vaadin-activity-7295802643216519169-f-Fk">View Live Demo</a></b> | <b><a href="https://github.com/ekalaitzis/E-Resume">View on GitHub</a></b>
+      </div>
+    </td>
+    <td width="50%">
+      <h3 align="center">ZapBites: Food Delivery Application</h3>
+      <br>
+      <p>An end-to-end web application for seamless food ordering and delivery, featuring secure authentication with Spring Security and a responsive UI.</p>
+      <p><b>Tech:</b></p>
+      <p>
+        <img src="https://img.shields.io/badge/Java-21-orange" alt="Java">
+        <img src="https://img.shields.io/badge/Spring_Boot-3-green" alt="Spring Boot">
+        <img src="https://img.shields.io/badge/Spring_Security-Auth-green" alt="Spring Security">
+        <img src="https://img.shields.io/badge/PostgreSQL-DB-blue" alt="PostgreSQL">
+        <img src="https://img.shields.io/badge/Thymeleaf-SSR-darkgreen" alt="Thymeleaf">
+        <img src="https://img.shields.io/badge/HTMX-Web-blue" alt="HTMX">
+      </p>
+      <div align="center">
+        <b><a href="https://github.com/ekalaitzis/ZapBites">View on GitHub</a></b>
+      </div>
+    </td>
+  </tr>
+</table>
+---
+
+### 🌱 About Me
+I am dedicated to the craft of software development and believe in the importance of continuous learning. My focus is on writing high-quality, testable, and maintainable code to build solutions that solve real-world problems. I thrive on collaboration and am always looking for opportunities to contribute to interesting projects and grow as an engineer.
+
+---
 
 <div align="center">
-  <h2>Useful Resources:</h2>
+  <img src="https://github-readme-stats.vercel.app/api?username=ekalaitzis&show_icons=true&theme=radical" alt="ekalaitzis's GitHub stats" />
 </div>
 
-- Computer Science: [Open Source Society University](https://github.com/ossu/computer-science#open-source-society-university)
-- Java: [Enthuware Mock Exams for OCP Java 17](https://enthuware.com/java-certification-mock-exams/oracle-certified-professional/ocp-java-17-exam-1z0-829) | OCP Complete Study Guide by Scott Selikoff Jeanne Boyarsky | [BroCodez YouTube Channel](https://www.youtube.com/@BroCodez)
-- Spring Framework: [Spring Start Here](https://www.manning.com/books/spring-start-here) | [Laurentiu Spilca's YouTube Channel](https://www.youtube.com/c/laurentiuspilca) | [Spring Boot Documentation](https://spring.io/projects/spring-boot) | [Build it with Spring Boot GitHub Repository](https://github.com/the-code-journal/build-it-with-spring-boot/tree/main/01-mvc-jpa-thymeleaf)
-- SQL: [Joins Practice](https://joins.spathon.com/)
-- Git: [GitHub Certified Practice Tests](https://ghcertified.com/practice_tests/)
+---
 
+### 🛠️ My Tech Stack
 <div align="center">
-  <h2>Certifications:</h2>
+  <p>
+    <b>Languages & Frameworks:</b><br>
+    <img src="https://img.shields.io/badge/Java-21-orange?style=for-the-badge&logo=openjdk" alt="Java">
+    <img src="https://img.shields.io/badge/Spring-Boot-green?style=for-the-badge&logo=spring" alt="Spring Boot">
+    <img src="https://img.shields.io/badge/Hibernate-ORM-lightgrey?style=for-the-badge&logo=hibernate" alt="Hibernate">
+    <img src="https://img.shields.io/badge/Vaadin-UI-blue?style=for-the-badge&logo=vaadin" alt="Vaadin">
+  </p>
+  <p>
+    <b>Databases & Tools:</b><br>
+    <img src="https://img.shields.io/badge/PostgreSQL-SQL-blue?style=for-the-badge&logo=postgresql" alt="PostgreSQL">
+    <img src="https://img.shields.io/badge/Docker-Container-blue?style=for-the-badge&logo=docker" alt="Docker">
+    <img src="https://img.shields.io/badge/Maven-Build-red?style=for-the-badge&logo=apachemaven" alt="Maven">
+    <img src="https://img.shields.io/badge/Git-Version_Control-orange?style=for-the-badge&logo=git" alt="Git">
+  </p>
 </div>
-
-- Java: [Java Programming MOOC](https://java-programming.mooc.fi/) | [Oracle Certified Professional Java SE 17 Developer](https://education.oracle.com/oracle-certified-professional-java-se-17-developer/trackp_OCPJSE17)
-- Spring: [VMware Spring Certified Professional](https://www.vmware.com/learning/certification/spring-certified-pro.html)
-- Scrum: [Scrum.org](https://www.scrum.org/)
-- Git: [Microsoft Git Certifications](https://examregistration.github.com/overview)
