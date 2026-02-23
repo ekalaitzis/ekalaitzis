@@ -1,11 +1,9 @@
 <div align="center">
   <h1>Hello, world! </h1>
-  <p>
-    A passionate and self-motivated <b>Java Developer</b> focused on building robust, user-centric backend systems and full-stack applications. I enjoy tackling complex problems and am constantly learning new technologies to write clean, efficient, and scalable code.
-  </p>
-</div>
+ 
 
----
+
+
 
 ### 🚀 My Projects
 
