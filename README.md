@@ -1,11 +1,14 @@
 <div align="center">
-  <h1>Hello, world! </h1>
- 
 
+Backend-focused Java developer building Spring Boot applications, REST APIs, PostgreSQL systems, and AI-assisted workflows.
 
+Currently transitioning from 10+ years in hospitality into software engineering, focused on backend architecture and real-world business applications.
 
+</div>
 
-### 🚀 My Projects
+---
+
+### My Projects
 
 <table>
   <tr>
@@ -17,12 +20,12 @@
       <p>A tool for recruiters to parse and score resumes based on configurable criteria, using OpenAI for intelligent data mapping.</p>
       <p><b>Tech:</b></p>
       <p>
-        <img src="https://img.shields.io/badge/Java-21-orange" alt="Java">
-        <img src="https://img.shields.io/badge/Spring_Boot-3.3-green" alt="Spring Boot">
-        <img src="https://img.shields.io/badge/Vaadin-24-blue" alt="Vaadin">
-        <img src="https://img.shields.io/badge/PostgreSQL-DB-blue" alt="PostgreSQL">
-        <img src="https://img.shields.io/badge/Docker-Container-blue" alt="Docker">
-        <img src="https://img.shields.io/badge/OpenAI-Spring_AI-black" alt="OpenAI">
+        <img src="https://img.shields.io/badge/Java-21-007396?style=flat&logo=openjdk&logoColor=white" alt="Java">
+        <img src="https://img.shields.io/badge/Spring_Boot-3.3-6DB33F?style=flat&logo=spring-boot&logoColor=white" alt="Spring Boot">
+        <img src="https://img.shields.io/badge/Vaadin-24-00B4F0?style=flat&logo=Vaadin&logoColor=white" alt="Vaadin">
+        <img src="https://img.shields.io/badge/PostgreSQL-DB-316192?style=flat&logo=postgresql&logoColor=white" alt="PostgreSQL">
+        <img src="https://img.shields.io/badge/Docker-Container-2CA5E0?style=flat&logo=docker&logoColor=white" alt="Docker">
+        <img src="https://img.shields.io/badge/OpenAI-Spring_AI-000000?style=flat&logo=openai&logoColor=white" alt="OpenAI">
       </p>
       <div align="center">
         <b><a href="https://www.linkedin.com/posts/emmanouilk_java-springboot-vaadin-activity-7295802643216519169-f-Fk">View Live Demo</a></b> | <b><a href="https://github.com/ekalaitzis/E-Resume">View on GitHub</a></b>
@@ -31,15 +34,15 @@
     <td width="50%">
       <h3 align="center">ZapBites: Food Delivery Application</h3>
       <br>
-      <p>An end-to-end web application for seamless food ordering and delivery, featuring secure authentication with Spring Security and a responsive UI.</p>
+      <p>Backend-driven food ordering application featuring authentication, role-based access, order management workflows, and PostgreSQL integration.</p>
       <p><b>Tech:</b></p>
       <p>
-        <img src="https://img.shields.io/badge/Java-21-orange" alt="Java">
-        <img src="https://img.shields.io/badge/Spring_Boot-3-green" alt="Spring Boot">
-        <img src="https://img.shields.io/badge/Spring_Security-Auth-green" alt="Spring Security">
-        <img src="https://img.shields.io/badge/PostgreSQL-DB-blue" alt="PostgreSQL">
-        <img src="https://img.shields.io/badge/Thymeleaf-SSR-darkgreen" alt="Thymeleaf">
-        <img src="https://img.shields.io/badge/HTMX-Web-blue" alt="HTMX">
+        <img src="https://img.shields.io/badge/Java-21-007396?style=flat&logo=openjdk&logoColor=white" alt="Java">
+        <img src="https://img.shields.io/badge/Spring_Boot-3-6DB33F?style=flat&logo=spring-boot&logoColor=white" alt="Spring Boot">
+        <img src="https://img.shields.io/badge/Spring_Security-Auth-6DB33F?style=flat&logo=spring-security&logoColor=white" alt="Spring Security">
+        <img src="https://img.shields.io/badge/PostgreSQL-DB-316192?style=flat&logo=postgresql&logoColor=white" alt="PostgreSQL">
+        <img src="https://img.shields.io/badge/Thymeleaf-SSR-005F0F?style=flat&logo=thymeleaf&logoColor=white" alt="Thymeleaf">
+        <img src="https://img.shields.io/badge/HTMX-Web-336699?style=flat&logo=htmx&logoColor=white" alt="HTMX">
       </p>
       <div align="center">
         <b><a href="https://github.com/ekalaitzis/ZapBites">View on GitHub</a></b>
@@ -47,33 +50,27 @@
     </td>
   </tr>
 </table>
----
-
-### 🌱 About Me
-I am dedicated to the craft of software development and believe in the importance of continuous learning. My focus is on writing high-quality, testable, and maintainable code to build solutions that solve real-world problems. I thrive on collaboration and am always looking for opportunities to contribute to interesting projects and grow as an engineer.
 
 ---
 
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=ekalaitzis&show_icons=true&theme=radical" alt="ekalaitzis's GitHub stats" />
-</div>
+### About Me
+
+Backend-focused developer with hands-on experience building Java and Spring Boot applications using PostgreSQL, REST APIs, Spring Security, and AI-assisted workflows.
+
+Currently studying Informatics (IT) at the Hellenic Open University while transitioning from a 10+ year career in hospitality into software engineering.
 
 ---
 
-### 🛠️ My Tech Stack
-<div align="center">
-  <p>
-    <b>Languages & Frameworks:</b><br>
-    <img src="https://img.shields.io/badge/Java-21-orange?style=for-the-badge&logo=openjdk" alt="Java">
-    <img src="https://img.shields.io/badge/Spring-Boot-green?style=for-the-badge&logo=spring" alt="Spring Boot">
-    <img src="https://img.shields.io/badge/Hibernate-ORM-lightgrey?style=for-the-badge&logo=hibernate" alt="Hibernate">
-    <img src="https://img.shields.io/badge/Vaadin-UI-blue?style=for-the-badge&logo=vaadin" alt="Vaadin">
-  </p>
-  <p>
-    <b>Databases & Tools:</b><br>
-    <img src="https://img.shields.io/badge/PostgreSQL-SQL-blue?style=for-the-badge&logo=postgresql" alt="PostgreSQL">
-    <img src="https://img.shields.io/badge/Docker-Container-blue?style=for-the-badge&logo=docker" alt="Docker">
-    <img src="https://img.shields.io/badge/Maven-Build-red?style=for-the-badge&logo=apachemaven" alt="Maven">
-    <img src="https://img.shields.io/badge/Git-Version_Control-orange?style=for-the-badge&logo=git" alt="Git">
-  </p>
-</div>
+### My Tech Stack
+
+### Languages & Frameworks
+![Java](https://img.shields.io/badge/-JAVA-007396?style=flat&logo=openjdk&logoColor=white)
+![Spring Boot](https://img.shields.io/badge/-SPRING_BOOT-6DB33F?style=flat&logo=spring-boot&logoColor=white)
+![Hibernate](https://img.shields.io/badge/-HIBERNATE-59666C?style=flat&logo=Hibernate&logoColor=white)
+![Vaadin](https://img.shields.io/badge/-VAADIN-00B4F0?style=flat&logo=Vaadin&logoColor=white)
+
+### Databases & Tools
+![PostgreSQL](https://img.shields.io/badge/-POSTGRESQL-316192?style=flat&logo=postgresql&logoColor=white)
+![Docker](https://img.shields.io/badge/-DOCKER-2CA5E0?style=flat&logo=docker&logoColor=white)
+![Maven](https://img.shields.io/badge/-MAVEN-C71A36?style=flat&logo=Apache%20Maven&logoColor=white)
+![Git](https://img.shields.io/badge/-GIT-F05032?style=flat&logo=git&logoColor=white)
