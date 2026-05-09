@@ -51,7 +51,6 @@ Currently transitioning from 10+ years in hospitality into software engineering,
   </tr>
 </table>
 
----
 
 ### About Me
 
