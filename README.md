@@ -1,6 +1,6 @@
 <div align="center">
 
-Backend-focused Java developer building Spring Boot applications, REST APIs, PostgreSQL systems, and AI-assisted workflows.
+Backend-focused Java developer building Spring Boot applications and REST APIs.
 
 Currently transitioning from 10+ years in hospitality into software engineering, focused on backend architecture and real-world business applications.
 
