@@ -2,7 +2,7 @@
 
 Backend-focused Java developer building Spring Boot applications and REST APIs.
 
-Currently transitioning from 10+ years in hospitality into software engineering, focused on backend architecture and real-world business applications.
+Currently transitioning from 10+ years in hospitality into software engineering, focused on backend architecture.
 
 </div>
 
